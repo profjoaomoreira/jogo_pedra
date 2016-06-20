@@ -1,1 +1,5 @@
-# jogo_pedra
+<<<<<<< HEAD
+# Jogo_Java
+=======
+# pedra
+>>>>>>> origin/master
